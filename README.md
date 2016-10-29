@@ -4,6 +4,7 @@
 
 * Be sure you are running a recent version of node & npm (in the video, I'm running node 6.9.1 and npm 3.10.8)
 * Install next by running `npm install`
+* Start the app in dev mode by running `npm run dev`
 
 ## Deploying the code
 
